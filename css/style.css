@@ -1,0 +1,36 @@
+	body {
+		background-image: url(../slike/pozadina.jpg);
+		background-position: center;
+		background-size: cover;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		margin:0;
+	}
+
+	.border-3 {
+		border-width:3px !important;
+		border-color:  #aaa !important;
+	}
+
+	.hitno {
+		background-color: orange;
+
+	}
+
+	.nije_hitno {
+		background-color: yellow;
+		}
+
+	.procitano {
+		background-color: green;
+		}
+
+	img {
+			width: 100px;
+			height: 100px;
+		}
+
+	.butlist {
+			display: block;
+			width: 100%;
+		}
